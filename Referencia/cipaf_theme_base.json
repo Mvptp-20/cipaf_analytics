@@ -1,0 +1,16 @@
+{
+  "name": "CIPAF",
+  "dataColors": [
+    "#F4690B",
+    "#6F2495",
+    "#BA1C88",
+    "#171799",
+    "#0C8980",
+    "#FFCC00",
+    "#004900",
+    "#C9008A"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#3B092B",
+  "tableAccent": "#BA1C88"
+}
