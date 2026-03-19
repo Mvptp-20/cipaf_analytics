@@ -1,0 +1,34 @@
+{
+  "name": "CIPAF_Base_Clean",
+  "dataColors": [
+    "#6F2495",
+    "#BA1C88",
+    "#171799",
+    "#0C8980",
+    "#F4690B",
+    "#FFCC00"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#3B092B",
+  "tableAccent": "#6F2495",
+
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 12,
+            "color": { "solid": { "color": "#3B092B" } }
+          }
+        ],
+        "labels": [
+          {
+            "fontFamily": "Segoe UI",
+            "color": { "solid": { "color": "#3B092B" } }
+          }
+        ]
+      }
+    }
+  }
+}
