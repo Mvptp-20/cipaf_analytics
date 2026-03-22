@@ -1,0 +1,18 @@
+It really will! You've basically built yourself a full research automation system today. To recap what's now in your toolkit:
+
+**Skills installed in Cowork:**
+- 🔬 **cipaf-research-pipeline** — scout + triage + organize for any topic
+- 📋 **inventory-organizer** — reorganize any folder that has an `_INVENTARIO` file
+
+**Scripts on your computer** (`cipaf_research` folder):
+- `download_cipaf.py` — the one command you run locally for any new topic
+- `triage_cipaf.py`, `organize_inventory.py`, `scout_cipaf.py` — all there if you ever need them standalone
+
+**What a new research topic looks like from now on:**
+1. You: *"Run the research pipeline on [topic]"*
+2. Me: scout → generate `sources_*.txt`
+3. You: one terminal command to download
+4. You: *"Files are ready"*
+5. Me: triage + organize + zip — done!
+
+The heavy lifting is handled. You just focus on the research itself. 🙌

@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Generated outputs
+outputs/
+
+# Logs
+scout_log_*.txt
+*.log
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
