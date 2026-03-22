@@ -44,6 +44,18 @@ Archivos generados:
 Diseñado para flujos de investigación exploratoria
 El sistema de puntuación de confianza puede ajustarse según necesidades
 
+## Reportes
+
+Cada carpeta de reporte representa un proyecto analítico completo, incluyendo:
+
+- `data/` → conjuntos de datos estructurados y diccionarios  
+- `assets/` → elementos visuales  
+- `dashboard/` → componentes de Power BI o visualización  
+- `report/` → resultados finales o narrativas  
+
+- `prompts/` → plantillas de prompts reutilizables para flujos de investigación y análisis
+
+
 
 # CIPAF Analytics
 
@@ -68,3 +80,13 @@ Repository for CIPAF analytics workflows, research scripts, Power BI themes, doc
 
 ```bash
 pip install -r requirements.txt
+## Reports
+
+Each report folder represents a complete analytical project, including:
+
+- `data/` → structured datasets and dictionaries  
+- `assets/` → visual elements  
+- `dashboard/` → Power BI or visualization components  
+- `report/` → final outputs or narratives  
+
+- `prompts/` → reusable prompt templates for research and analysis workflows
